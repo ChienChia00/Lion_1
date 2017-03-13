@@ -1,2 +1,1 @@
-# Lion_1
-# Lion_1
+g++ -o A A.cpp
