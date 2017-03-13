@@ -1,0 +1,16 @@
+Script started on 2017年03月13日 (週一) 09時55分59秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m whoami;pwd
+pd2vm
+/home/pd2vm/Desktop
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git config -l
+user.email=hcc7391@gmail.com
+user.name=Chienchia00
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m git config -l[3Pwhoami;pwdgit clone http://github.com/Chienchia00/Lionn_1.git
+Cloning into 'Lion_1'...
+remote: Counting objects: 12, done.[K
+remote: Compressing objects:  12% (1/8)   [Kremote: Compressing objects:  25% (2/8)   [Kremote: Compressing objects:  37% (3/8)   [Kremote: Compressing objects:  50% (4/8)   [Kremote: Compressing objects:  62% (5/8)   [Kremote: Compressing objects:  75% (6/8)   [Kremote: Compressing objects:  87% (7/8)   [Kremote: Compressing objects: 100% (8/8)   [Kremote: Compressing objects: 100% (8/8), done.[K
+remote: Total 12 (delta 1), reused 11 (delta 0), pack-reused 0[K
+Unpacking objects:   8% (1/12)   Unpacking objects:  16% (2/12)   Unpacking objects:  25% (3/12)   Unpacking objects:  33% (4/12)   Unpacking objects:  41% (5/12)   Unpacking objects:  50% (6/12)   Unpacking objects:  58% (7/12)   Unpacking objects:  66% (8/12)   Unpacking objects:  75% (9/12)   Unpacking objects:  83% (10/12)   Unpacking objects:  91% (11/12)   Unpacking objects: 100% (12/12)   Unpacking objects: 100% (12/12), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/Desktop $[00m 
+Script done on 2017年03月13日 (週一) 09時56分33秒
